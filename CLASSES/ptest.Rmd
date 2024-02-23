@@ -1,0 +1,7 @@
+# now I have added some information here. 
+```{git bash}
+echo "hello world"
+
+
+```
+- the end.
